@@ -397,7 +397,7 @@
         <version>6.1.22</version>
         <configuration>
           <!-- 添加这行 -->
-          <webDefaultXml>src/main/resources/jetty/webdefault.xml</webDefaultXml>
+          <!-- <webDefaultXml>src/main/resources/jetty/webdefault.xml</webDefaultXml>-->
           <webAppSourceDirectory>src/main/webapp</webAppSourceDirectory>
           <scanIntervalSeconds>3</scanIntervalSeconds>
           <contextPath>/</contextPath>
